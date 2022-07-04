@@ -1,0 +1,37 @@
+body{
+    background-color: slategray;
+}
+h1 h2{
+    font-size: 45px;
+}
+button {
+    font-size: 25px;
+    background-color: cornflowerblue;
+    text-decoration: #65fg99;
+}
+#signup{
+    background-color: darkblue;
+    color: goldenrod;
+}
+span{
+    color: chartreuse;
+}
+.tag{
+    background-color: brown;
+    color: blanchedalmond;
+    font-size: 16px;
+}   
+footer a {
+    color: red;
+}
+h2 + button{
+    font-size: 23px;
+    background-color: darkslateblue;
+}
+footer > a {
+    color: blueviolet;
+}
+
+input [type="password"{
+    color:brown;
+}
